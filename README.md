@@ -249,4 +249,4 @@ upstream source history to merge.
 
 ## License
 
-Except where otherwise noted, QM is available under the [MIT License](./LICENSE).
+Except where otherwise noted, MYQM is available under the [MIT License](./LICENSE).
